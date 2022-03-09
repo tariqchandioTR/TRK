@@ -144,7 +144,7 @@ print  """
 \033[1;92m➣ \033[1;92mDEVOLPER   :            (F)
 \033[1;91m➣ \033[1;92mFACEBOOK   :            (F)
 \033[1;93m➣ \033[1;92mWHATSAPP   :            03458893258 
-\033[1;96m➣ \033[1;92mGITHUB     :            https://github.com/Sindhiboys.git
+\033[1;96m➣ \033[1;92mGITHUB     :            https://github.com/tariqchandioTR/TRK.git
 \033[1;97m••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;92m➣ \033[1;96mCloning Ids Open 7 days..
 \033[1;97m••••••••••••••••••••••••••••••••••••••••••••••             
@@ -164,7 +164,7 @@ logo1 = """
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;91m➣ DEVOLPER     :        (F)
 \033[1;92m➣ FACEBOOK     :        (F)
-\033[1;97m➣ GITHUB       :        ✓new user
+\033[1;97m➣ GITHUB       :        https://github.com/tariqchandioTR/TRK.git
 \033[1;93m➣ WHATAAPP     :       03458893258
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;91m➣ \033[1;96mYOU CAN COPY ME ..
